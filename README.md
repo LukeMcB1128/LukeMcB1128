@@ -10,7 +10,7 @@ Previously:
 - Embedded C, React, Swift
 
 Currently building:
-- Brittain Code - AI coding assistant for local LLMs
+- Brittain Code/CLI - AI coding assistant for local and OpenAI compatible LLM's
 - Brittain2 - Small coding language models
 - BrittainScript - Custom interpreted programming language
 - FlightRouter - Flight planning application
