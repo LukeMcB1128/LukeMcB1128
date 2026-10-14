@@ -2,6 +2,9 @@
 
 High school software engineer based in Austin, Texas.
 
+Currently:
+- Junior Software Engineering Intern @ LeanDNA
+
 Previously:
 - Software and Hardware Engineering Intern @ Splitfast
 - Embedded C, React, Swift
@@ -19,7 +22,7 @@ AI coding assistant inspired by Claude Code and Codex
 
 - Electron
 - JS
-- Ollama
+- Ollama/OpenAI Compatible API
 - 46 integrated tools
 - Autonomous agent support
 
@@ -33,7 +36,7 @@ Second generation of language models trained from scratch, this version focused 
 - PyTorch
 - Custom datasets
 - Tokenizer experiemtns
-- Applie Silicon + NVIDIA L4
+- Applie Silicon + NVIDIA L4 + NVIDIA 3060
 
 https://github.com/LukeMcB1128/brittain-model
 
