@@ -38,7 +38,7 @@ Second generation of language models trained from scratch, this version focused 
 - Tokenizer experiemtns
 - Applie Silicon + NVIDIA L4 + NVIDIA 3060
 
-https://github.com/LukeMcB1128/brittain-model
+https://github.com/LukeMcB1128/brittain-model https://brittain.app/
 
 ---
 
@@ -51,7 +51,7 @@ Programming language built using Python and PLY
 - VS Code Extension
 - PyPi package
 
-https://github.com/LukeMcB1128/BrittainScript
+https://github.com/LukeMcB1128/BrittainScript https://pypi.org/project/brittainscript/#user-content-html-app-library-ui
 
 ---
 
