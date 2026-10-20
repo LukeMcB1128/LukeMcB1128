@@ -51,7 +51,7 @@ Programming language built using Python and PLY
 - VS Code Extension
 - PyPi package
 
-https://github.com/LukeMcB1128/BrittainScript https://pypi.org/project/brittainscript/#user-content-html-app-library-ui
+https://github.com/LukeMcB1128/BrittainScript https://pypi.org/project/brittainscript/
 
 ---
 
